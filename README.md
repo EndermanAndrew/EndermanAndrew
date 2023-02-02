@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **C#, JavaScript**
 
-- 👨‍💻 All of my projects are available at [my home page](my home page)
+- 👨‍💻 All of my projects are available at [<a href="https://github.com/EndermanAndrew" My Home Page>]
 
 - 💬 Ask me about **Android Developer**
 
-- 📄 Know about my experiences [the first time learning to code](the first time learning to code)
+- 📄 Know about my experiences :**first time learning to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

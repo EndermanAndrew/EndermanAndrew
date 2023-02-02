@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, JavaScript**
 
-- 👨‍💻 All of my projects are available at [<a href="https://github.com/EndermanAndrew" My Home Page>]
+- 👨‍💻 All of my projects are available at [<a href="https://github.com/EndermanAndrew">My Home Page</a>]
 
 - 💬 Ask me about **Android Developer**
 

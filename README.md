@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Android Developer**
 
-- 📄 Know about my experiences :**first time learning to code**
+- 📄 Know about my experiences: **first time learning to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

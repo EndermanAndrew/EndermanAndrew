@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm EndermanAndrew</h1>
 <h3 align="center">You can call me Custom Night too!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=endermanandrew" alt="endermanandrew" /></a> </p>
-
 - 🌱 I’m currently learning **C#, JavaScript**
 
 - 👨‍💻 All of my projects are available at [my home page](my home page)
